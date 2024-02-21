@@ -1,4 +1,4 @@
-![logo](https://github.com/MARUF3470/MARUF3470/blob/main/Full%20Stack%20WEb%20developer%20(1).png)
+![logo](https://github.com/MARUF3470/MARUF3470/blob/main/Linkedin_Cover_Picture.png)
 <h1 align="center">Hi 👋, I'm Maruf Hossain</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
